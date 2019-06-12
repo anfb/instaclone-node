@@ -1,8 +1,0 @@
-{
-  "name": "instaclone-node",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/anfb/instaclone-node.git",
-  "author": "Adriely Nara <a.freitas.barbosa@avanade.com>",
-  "license": "MIT"
-}
